@@ -33,7 +33,4 @@ Percentage and count of female job seekers with previous offence
 Percentage and count of jobseekers by state
 Average spent per state
 A report on prior education and any correlation to the funding category
-=======
-Project 1
-I modified this.
->>>>>>> parent of cc12476 (Initial Commit)
+======
