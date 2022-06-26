@@ -19,7 +19,7 @@ Jobactive Employment Fund dataset can be found in the following location.
 
 The dataset contains the applications of getting employment funds to cover the applicants' costs related to job searching, job training, relocation assistance, medical and mental expenses et cetera that can help the applicants to acquire a job and become independent. Therefore, it consists of the demographic details, such as education level, age, race, and Jobactive Stream of the applicants, and the reason for getting the employment fund.
 
-There are 3 streams in Jobactive:
+There are 3 main streams in Jobactive inlcuding a 4th stream that is a volunteer one.
 
 * Stream A: (highly trained applicants that require minimum support)
 * Stream B: (mediumly trained applicants that require additional support for them to be job ready)
@@ -30,18 +30,15 @@ There are 3 streams in Jobactive:
 “Our project is to generate a report that breaks down the government spending on jobless people.
 
 **Jeya**
- Analyse the data about government spending on indigenous people. This analysis will include examining the spending on homeless people, people who have a history of previous offence. Analysis based on gender, age group and prior education will also be accounted for. Reports will be generated based on categories funding was allocated for and based on the 3 streams. Analysis will be done on the funding year by year for the 3 years as well.
+ Analyse the data about government spending on indigenous people. This analysis will include examining the spending on homeless people, people who have a history of previous offence. Analysis based on gender, age group and prior education will also be accounted for. Reports will be generated based on categories funding was allocated for and based on the streams. Analysis will be done on the funding year by year for the 3 years as well.
 
 Questions that will be answered
 
 * Total number of Jobseekers that sought funding in 2015, 2016 and 2017
-* Percentage and count of male job seekers
-* Percentage and count of female job seekers
+* Percentage and count of male and female job seekers
 * Total amount spent by category
 * Total amount spent by streams
-* Percentage and count of male homeless job seekers
-* Percentage and count of female homeless job seekers
-* Percentage and count of male job seekers with previous offence
-* Percentage and count of female job seekers with previous offence
-* Percentage and count of jobseekers by state
-* Average amount spent per state
+* Percentage and count of homeless job seekers
+* Percentage and count of job seekers with previous offence
+* Percentage and count of job seekers who are homeless and have a history of previous offence
+* Percentage and count of jobseekers by state and funding by state
