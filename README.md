@@ -26,8 +26,8 @@ There are 3 main streams in Jobactive inlcuding a 4th stream which is a voluntee
 * Stream C: (applicants that require support to gain vocational or professional skills to be job ready).
 
 ## Project Title
-
 “Our project is to generate a report that breaks down the government spending on unemployed Jobseekers, and explore some of the factors that may potentially influence the unemployment and employment of Jobseekers who are a part of the Jobactive Employment Fund program".
+
 
 **Jeya**
  Analyse the data to find government spending for jobkeepers for indigenous people over a period of 3 years from 2015 to 2017. This analysis will include examining the spending on homeless people and people who have a history of previous offence. Analysis based on gender, categories the funding was allocated for and the streams will be considered. Analysis will be done on spending by each states as well.
@@ -47,8 +47,10 @@ Questions that will be answered:
     * Does the education level of the jobseekers have any relation to unemployment/employment? (Higher education level vs Lower)
     * How many of the jobseekers in this data have a higher level of education (Bachelor, diploma, etc) compared to those with a lower level of education (Year10/11, 12/13, etc)?  
     * Does education level have a relation to unemployment length?
-    * Which age group has the most amount of Jobseekers?
-    * If there are a significant amount of jobseekers in a given age group, why is this the case? Is it because of their education level?
+    *Does the education level of the jobseekers assist in finding employment?
+    * How many of the jobseekers in this data have a higher level of education (Bachelor, diploma) compared to those with a lower level of education (Year10/11)?  
+    *Have those with a higher level of education been unemployed for a lesser amount of time than those with lower levels of education?
+
 
 **Steve**
     Questions that will be answered:
